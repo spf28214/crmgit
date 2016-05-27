@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	hello git
-	hello haha
+
 </body>
 </html>
